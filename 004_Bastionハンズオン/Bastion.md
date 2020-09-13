@@ -1,4 +1,4 @@
-# Azure Bastion ハンズオン 2020年9月10日
+# 小林製薬株式会社 御中 <br> Azure Bastion ハンズオン 2020年9月10日
 ## Azure Bastion とは
 
 Azure Bastion サービスは、お使いの仮想ネットワーク内でプロビジョニングする、新しいフル プラットフォームマネージド PaaS サービスです。 これは、Azure portal 内で直接 TLS を経由して、お使いの仮想マシンへの安全かつシームレスな RDP または SSH 接続を提供します。 Azure Bastion 経由で接続する場合、ご自分の仮想マシンにパブリック IP アドレスは必要ありません。
@@ -34,8 +34,8 @@ RDP および SSH は、Azure で実行されているワークロードに接�
 
 |名前 |	Value|
 |---|---|
-|名前 |	VNet1Bastion|
-|リージョン |	eastus|
+|名前 |	myVirtualNetwork|
+|リージョン |	東日本|
 |仮想ネットワーク |	VNet1|
 |+ サブネット名 |	AzureBastionSubnet|
 |AzureBastionSubnet アドレス |	10.1.254.0/27|
