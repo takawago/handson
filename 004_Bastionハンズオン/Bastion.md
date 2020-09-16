@@ -37,7 +37,7 @@ RDP および SSH は、Azure で実行されているワークロードに接�
 |リージョン |	東日本|
 |仮想ネットワーク名 |	myVirtualNetwork|
 |+ サブネット名 |	AzureBastionSubnet|
-|AzureBastionSubnet アドレス |	10.1.254.0/27|
+|AzureBastionSubnet アドレス |	10.1.1.0/27|
 |パブリック IP アドレス |	新規作成|
 |パブリック IP アドレス名 |	myVirtualNetwork-ip|
 |パブリック IP アドレスの SKU |	Standard|
