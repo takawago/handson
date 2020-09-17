@@ -10,7 +10,7 @@
 |IPv4 アドレス空間|172.16.0.0/16|
 |サブネット名|myVirtualSubnet|
 |サブネットのアドレス範囲|172.1.0.0/24|
-|仮想マシン名|myVm1|
+|仮想マシン名|myVm1 (サブスクリプションで唯一の名前)|
 |仮想マシン パブリックIP名 |myVm-ip|
 |ストレージアカウント名|mystorageaccount (グローバルで唯一の名前)|
 |Bastionサブネット名|AzureBastionSubnet|
