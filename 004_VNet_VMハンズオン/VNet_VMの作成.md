@@ -13,6 +13,7 @@
 |仮想マシン名|myVm1|
 |仮想マシン パブリックIP名 |myVm-ip|
 |ストレージアカウント名|mystorageaccount (グローバルで唯一の名前)|
+|AzureBastionSubnet アドレス |	172.1.1.0/27|
 <br>
 
 
